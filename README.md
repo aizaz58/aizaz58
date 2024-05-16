@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aizaz Rafique
 - 👀 I’m interested in javascript,node.js,express.js,react.js,.netcore
-- 🌱 I’m currently learning node.js,express.js,.netcore
+- 🌱 I’m currently working in next.js, react.js, typescript, node.js,express.js,.netcore
 - �
 - 📫 How to reach me aizaz58@yahoo.com or whatsapp 00923351700028
 
